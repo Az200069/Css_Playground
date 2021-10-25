@@ -15,7 +15,8 @@ body {
 }
 
 .main{
-    border: 3px solid grey; width: 55%; margin: 01rem auto;
+    border: 3px solid grey; 
+    width: 55%; margin: 01rem auto;
 }
 
 .main div {
@@ -42,6 +43,6 @@ body {
     color:cadetblue
     font-family: 'Zen Kaku Gothic New', sans-serif;
     font-size:  2rem;
-    text-align: center
+    text-align: center;
 }
 
